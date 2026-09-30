@@ -90,7 +90,7 @@ CGPA **9.73 / 10** · **Gold Medalist (University Rank-1)** · SRMIST scholarshi
 <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C2185B?style=flat-square" alt="MITRE ATT&CK">
 
 **AI & ML:**
-<img src="https://img.shields.io/badge/LLMs%20%C2%B7%20Prompt%20Engineering-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs and prompt engineering">
+<img src="https://img.shields.io/badge/LLMs%20%C2%B7%20Prompt%20Engineering-412991?style=flat-square" alt="LLMs and prompt engineering">
 <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
 <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
