@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://frankenstein-threat-command-center.onrender.com"><img src="https://img.shields.io/badge/Live%20demo-Threat%20Command%20Center-fa582d?style=for-the-badge&logo=render&logoColor=white" alt="Live demo: Threat Command Center"></a>
   <img src="https://komarev.com/ghpvc/?username=rajsaurabh1000&style=for-the-badge&color=0e75b6&label=Profile%20views" alt="Profile views">
 </p>
 
