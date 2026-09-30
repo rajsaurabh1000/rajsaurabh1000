@@ -90,6 +90,7 @@ B.Tech in Electronics &amp; Computer Engineering · 2019 – 2023
 <p>
   <img src="assets/aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="120">
   <img src="assets/aws-ccp.png" alt="AWS Certified Cloud Practitioner" width="120">
+  <img src="assets/sailpoint-identity-security-leader.png" alt="SailPoint Identity Security Leader" width="150">
 </p>
 
 | Certification | Issuer | Issued |
