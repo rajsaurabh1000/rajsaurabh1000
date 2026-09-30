@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Saurabh Raj 👋</h1>
 
 <p align="center">
-  <b>Software Engineer (SDE-2) at Autodesk</b> · ex-R&amp;D intern at Samsung<br>
-  I build full-stack systems end to end: backend services, real-time data pipelines and the dashboards on top of them.
+  <b>SDE II at Autodesk</b> · 4 years of experience · ex-Samsung R&amp;D<br>
+  Backend engineer building distributed systems and microservices end to end: services, real-time data pipelines and the dashboards on top of them.<br>
+  🥇 Gold Medalist, SRM · 🏆 7× hackathon winner and finalist · 🎤 Tech speaker
 </p>
 
 <p align="center">
@@ -13,15 +14,17 @@
 
 ### 🧭 What I work on
 
-- **Backend & distributed systems:** APIs, event-driven pipelines, system design (LLD / HLD)
+- **Backend & distributed systems:** microservices, APIs, event-driven pipelines on AWS, system design (LLD / HLD)
 - **Real-time products:** WebSocket streaming, live dashboards, alerting
 - **Security & observability:** threat scoring, MITRE ATT&CK enrichment, health monitoring
-- **Shipping with AI:** using AI tools for velocity while owning the architecture, contracts and quality
+- **AI & tech:** shipping with AI tools for velocity while owning the architecture, contracts and quality
+- **Sharing:** speaking at tech events and mentoring through hackathons
 
 ### 🛠️ Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
@@ -34,6 +37,8 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Microservices-0A66C2?style=flat-square&logo=serverless&logoColor=white" alt="Microservices">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render">
@@ -94,9 +99,10 @@ A machine-learning model that classifies chest X-rays as COVID-19 positive or ne
 
 ### 🏅 Highlights
 
-- 🥈 **First Runner-Up**, EY GDS Hackpions 3.0 (grand finale)
-- 🧪 Hackathons: BlackRock, Google BGN 2021, EY GDS Hackpions
-- 🏢 SDE-2 at **Autodesk** · R&amp;D intern at **Samsung**
+- 🥇 **Gold Medalist**, SRM
+- 🏆 **7× hackathon** winner and finalist, including **First Runner-Up** at the EY GDS Hackpions 3.0 grand finale (also BlackRock, Google BGN 2021)
+- 🎤 **Tech speaker**
+- 🏢 SDE II at **Autodesk** (4 YOE) · R&amp;D at **Samsung**
 
 ---
 
