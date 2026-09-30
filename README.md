@@ -115,8 +115,11 @@ A machine-learning model that classifies chest X-rays as COVID-19 positive or ne
   <img src="https://streak-stats.demolab.com?user=rajsaurabh1000&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak">
 </p>
 
-<!--
+---
+
 ### 📫 Get in touch
-Add your links here, for example:
-<a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
--->
+
+<p>
+  <a href="https://www.linkedin.com/in/rajsaurabh1000/"><img src="https://img.shields.io/badge/LinkedIn-rajsaurabh1000-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/rajsaurabh1000?tab=repositories"><img src="https://img.shields.io/badge/GitHub-repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"></a>
+</p>
