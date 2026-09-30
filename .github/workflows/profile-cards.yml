@@ -1,0 +1,21 @@
+name: Profile summary cards
+
+# Generates the stats cards shown in README.md into profile-summary-card-output/ (self-hosted, so
+# they never break when a public stats service is down). Refreshes daily.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}

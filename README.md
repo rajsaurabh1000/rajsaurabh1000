@@ -104,8 +104,12 @@ A machine-learning model that classifies chest X-rays as COVID-19 positive or ne
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajsaurabh1000&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsaurabh1000&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contributions and profile details" width="100%">
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="170">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" height="170">
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" height="170">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajsaurabh1000&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak">
